@@ -18,11 +18,4 @@ By training a **Long Short-Term Memory (LSTM)** neural network on a text corpus 
 ## 🛠️ Tech Stack
 * **Machine Learning / NLP:** Python, TensorFlow/Keras (or PyTorch), NumPy, NLTK/Spacy
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript
-* **Backend Integration:** *(Note: Add your backend framework here, e.g., Flask, FastAPI, or Django, which connects your Python model to your JS frontend)*
-
-## 💻 Installation & Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/next-word-prediction-lstm.git](https://github.com/yourusername/next-word-prediction-lstm.git)
-   cd next-word-prediction-lstm
+* **Backend Integration:** FastAPI
